@@ -18,7 +18,7 @@ The Markdown Converter is a Spring Boot application designed to handle Markdown 
 - **MarkdownService**: Converts Markdown text to HTML.
 - **GrammarCheckService**: Checks grammar of the provided text.
 - **FileStorageService**: Handles file uploads.
-- **PostgreSQL**: Database for storing notes (if used).
+- **PostgreSQL**: Database for storing notes.
 - **JPA**: Java Persistence API for database operations.
 
 ## Getting Started
